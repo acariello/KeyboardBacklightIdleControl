@@ -1,0 +1,7 @@
+C:\Clients\AJC\BackLightProg\BackLightProg\bin\Debug\BackLightProg.exe.config
+C:\Clients\AJC\BackLightProg\BackLightProg\bin\Debug\BackLightProg.exe
+C:\Clients\AJC\BackLightProg\BackLightProg\bin\Debug\BackLightProg.pdb
+C:\Clients\AJC\BackLightProg\BackLightProg\obj\Debug\BackLightProg.csprojAssemblyReference.cache
+C:\Clients\AJC\BackLightProg\BackLightProg\obj\Debug\BackLightProg.csproj.CoreCompileInputs.cache
+C:\Clients\AJC\BackLightProg\BackLightProg\obj\Debug\BackLightProg.exe
+C:\Clients\AJC\BackLightProg\BackLightProg\obj\Debug\BackLightProg.pdb
